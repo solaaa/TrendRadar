@@ -14,4 +14,19 @@ Apple
 Deepseek
 !水果
 
+半导体
+stm
+Silergy
+IC
+@10
+
+人工智能
+AI
+RL
+LLM
+NIPS
+ICCV
+CVPR
+顶会
++论文
 
